@@ -15,7 +15,7 @@ int main ()
     }
     for(size_t i=0; i<width*height*pixelDepth; ++i)
     {
-        stdd::cout<<image[i]<<' ';
+        std::cout<<image[i]<<' ';
     }
     
     return EXIT_SUCCESS;
