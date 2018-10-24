@@ -7,7 +7,7 @@
 
 ```
 git commit -am "updated the readme.md"
-git push origin maste
+git push origin master
 ```
 
 Are the comments we used to update the repo
